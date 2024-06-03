@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **AI personal assistant robot**
 
-- 👨‍💻 All of my projects are available at [https://icthbwdwxndfgsv8co9xcg.on.drv.tw/www.portfolio.blog/](https://icthbwdwxndfgsv8co9xcg.on.drv.tw/www.portfolio.blog/)
+- 👨‍💻 All of my portfolio are available at [https://icthbwdwxndfgsv8co9xcg.on.drv.tw/www.portfolio.blog/](https://icthbwdwxndfgsv8co9xcg.on.drv.tw/www.portfolio.blog/)
 
 - 💬 Ask me about **Cybersecurity,python,AI-ML**
 
