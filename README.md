@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Robust human target detection**
 
-- 🌱 I’m currently learning **java script**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **Face recog...**
 
 - 🤝 I’m looking for help with **AI personal assistant robot**
 
-- 👨‍💻 All of my portfolio are available at [https://icthbwdwxndfgsv8co9xcg.on.drv.tw/www.portfolio.blog/](https://icthbwdwxndfgsv8co9xcg.on.drv.tw/www.portfolio.blog/)
+- 👨‍💻 All of my portfolio are available at [https://shivam-kushwah-ai-0yikops.gamma.site/#card-fb09f8efgt2nsuk)
 
 - 💬 Ask me about **Cybersecurity,python,AI-ML**
 
